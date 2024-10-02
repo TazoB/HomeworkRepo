@@ -1,0 +1,14 @@
+cd
+ls
+mkdir
+git init
+nano ...
+git add ...
+git status
+git log
+git commit -m "..."
+git remote -v
+git remote add origin (URL)
+git push origin master
+git clone (URL)
+touch
